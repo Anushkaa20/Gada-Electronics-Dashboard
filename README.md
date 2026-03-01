@@ -85,6 +85,7 @@ Through this project, I gained hands-on experience in:
 
 8.Screenshot / Demos
 show what dashboard looks like.
+![Dashboard Preveiw](https://github.com/Anushkaa20/Gada-Electronics-Dashboard/blob/main/Screenshot%202026-03-01%20120429.png)
 
 📎 Conclusion
 This dashboard effectively summarizes the overall performance of Gada Electronics and provides actionable insights through interactive visualizations. It can be used by management to monitor performance, optimize strategy, and improve profitability.
